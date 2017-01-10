@@ -1,0 +1,154 @@
+body {
+    font-family: Verdana;
+    padding-right: 30;
+}
+h1 {
+    font-size: 115;
+    padding-top: 130;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+}
+h2 {
+    color: navy;
+    padding-left: 30;
+}
+h3 {
+    color: #6495ed;
+    text-align: center;
+}
+h4 {
+    font-size: 20;
+    padding-top: 0;
+    padding-bottom: 70px;
+}
+h6 {
+    font-family: Verdana;
+    padding-left: 500;
+    font-size: 15;
+}
+p {
+    padding-left: 30;
+    line-height: 2;
+}
+a {
+    color: #6495ed;
+    text-decoration: none;
+}
+a:hover {
+    color: #f08080;
+}
+a:active {
+    color: #6495ed;
+}
+header {
+    color: #6495ed;
+    background-color: navy;
+    height: 100;
+    margin-right: 0
+}
+footer {
+    text-align: center;
+    background-color: #6495ed;
+    padding-top: 7;
+    padding-bottom: 7;
+    margin-bottom: -40;
+    margin-left: -10;
+    margin-right: -50;
+    margin-top: -150;
+    clear: both;
+}
+#motto {
+    text-align: center;
+    color: navy;
+    background-image: url("http://i.imgur.com/0HuzxIj.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    margin-left: -10;
+    margin-right: -40;
+    padding-right: 20;
+    z-index: 50;
+}
+#News {
+    background-color: RGB(255,255,255);
+    padding: 20px;
+    padding-right: 20px;
+}
+#DIY {
+    background-color: #6495ED;
+    padding-top: 5px;
+    padding-bottom: 350px;
+    padding-left: 20px;
+    margin-right: -40;
+    margin-left: -10;
+}
+#link1 {
+    position: absolute;
+    width:260px;
+    background-color: RGB(255,255,255);    
+}
+.img1 {
+    margin: 10;
+}
+#link2 {
+    position: absolute;
+    width:260px;
+    background-color: RGB(255,255,255);
+    left: 318px;
+}
+.img2 {
+    margin: 10;
+}
+#link3 {
+    position: absolute;
+    width: 260;
+    background-color: white;
+    left: 620;
+}
+.img3 {
+    margin: 10;
+}
+.img11 {
+    position: absolute;
+    left:400;
+}
+
+#Shop {
+    padding-top: 100;
+    position: relative;
+    left: 60%;
+    width: 30%;
+}
+#shop_img {
+    position: relative;
+    bottom: 200;
+    left: 10%;
+}
+#About {
+    position: relative;
+    bottom: 430;
+    width: 40%;
+    left: 50;
+}
+.about_doll {
+    position: relative;
+    left: 50%;
+    bottom: 150;
+}
+nav {
+    font-weight: bold;
+    color: #6495ed;
+    width: 110%;
+    position: fixed;
+    margin: -50;
+    padding-top: 50;
+    padding-bottom: 10;
+    padding-left: 35%;
+    background-color: navy;
+    font-size: 25;
+    z-index: 999;
+}
+nav li {
+    float: center;
+    display: inline-block;
+    padding-right: 10px;
+}
